@@ -18,6 +18,13 @@ export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"
 ```
 
+5. Install `git lfs`: <https://github.com/git-lfs/git-lfs?utm_source=gitlfs_site&utm_medium=installation_link&utm_campaign=gitlfs#installing>
+6. Initialize `git lfs`:
+
+```
+git lfs install
+```
+
 ## Build and Serve
 
 1. Execute `bundle` command:
