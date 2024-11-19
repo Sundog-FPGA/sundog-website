@@ -1,0 +1,17 @@
+Patrick Lloyd:
+  photo: john-doe.JPG
+  bio: Patrick is the project lead and in-house FPGA master.
+  socials:
+    - type: Matrix
+      url: swedishhat:matrix.org
+    - type: Codeberg
+      url: https://codeberg.org/pdlloyd
+
+Shane Engelman:
+  photo: jane-doe.JPG
+  bio: Shane is just here to help.
+  socials:
+    - type: Matrix
+      url: singlerider:matrix.org
+    - type: Codeberg
+      url: https://codeberg.org/singlerider
